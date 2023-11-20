@@ -1,3 +1,11 @@
-CROUCH LINEUP
-Full charge
-1 Bounce
+{
+    "ability" : "sova_recon",
+    "pixel_perfect" : false,
+    "time_to_land" : 2, 
+    "sova_charge_bar" : 3, 
+    "sova_bounces" : 1, 
+    "notes" : "CROUCH lineup",
+    "stand_here_setting" : "tuck_left",
+
+    "custom_lineup" : false
+}

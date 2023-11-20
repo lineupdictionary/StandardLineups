@@ -1,1 +1,11 @@
-2 Bar, 0 Bounce, PIXEL PERFECT
+{
+    "ability" : "sova_recon",
+    "pixel_perfect" : true,
+    "time_to_land" : 5, 
+    "sova_charge_bar" : 2, 
+    "sova_bounces" : 0, 
+    "notes" : "",
+    "stand_here_setting" : "tuck_down",
+
+    "custom_lineup" : false
+}

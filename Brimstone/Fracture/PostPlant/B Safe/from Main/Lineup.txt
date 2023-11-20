@@ -1,1 +1,11 @@
-JUMP THEN THROW
+{
+    "ability" : "brim_molly",
+    "pixel_perfect" : true,
+    "time_to_land" : 5.5, 
+    "sova_charge_bar" : null, 
+    "sova_bounces" : null, 
+    "notes" : "Jump & throw at peak",
+    "stand_here_setting" : "align_wall",
+
+    "custom_lineup" : false
+}

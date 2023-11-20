@@ -1,1 +1,11 @@
-0 Bar, 0 Bounce, Jump & Throw at Peak
+{
+    "ability" : "sova_recon",
+    "pixel_perfect" : false,
+    "time_to_land" : 2, 
+    "sova_charge_bar" : 0, 
+    "sova_bounces" : 0, 
+    "notes" : "Jump & throw at peak",
+    "stand_here_setting" : "tuck_right",
+
+    "custom_lineup" : false
+}
