@@ -1,11 +1,11 @@
 {
-    "ability" : "brim_molly",
+    "ability" : "tejo_stun",
     "pixel_perfect" : false,
     "time_to_land" : null, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
-    "notes" : "Crouch then lineup - JUMP & THROW AT PEAK",
-    "stand_here_setting" : "tuck_up",
+    "notes" : "Right click",
+    "stand_here_setting" : "tuck_down",
 
     "custom_lineup" : false
 }

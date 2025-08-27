@@ -1,0 +1,11 @@
+{
+    "ability" : "tejo_stun",
+    "pixel_perfect" : true,
+    "time_to_land" : null, 
+    "sova_charge_bar" : null, 
+    "sova_bounces" : null, 
+    "notes" : "Right click",
+    "stand_here_setting" : "tuck_down",
+
+    "custom_lineup" : false
+}
