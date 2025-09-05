@@ -1,11 +1,11 @@
 {
     "ability" : "brim_molly",
     "pixel_perfect" : false,
-    "time_to_land" : 3, 
+    "time_to_land" : 9, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
-    "notes" : "CROUCH then lineup",
-    "stand_here_setting" : "align_wall",
+    "notes" : "Shoot at KJ Ult 10% Progress",
+    "stand_here_setting" : "tuck_left",
 
     "custom_lineup" : false
 }
