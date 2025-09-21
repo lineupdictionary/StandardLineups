@@ -1,7 +1,7 @@
 {
     "ability" : "brim_molly",
     "pixel_perfect" : true,
-    "time_to_land" : 6, 
+    "time_to_land" : 8.5, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
     "notes" : "",
