@@ -1,0 +1,11 @@
+{
+    "ability" : "brim_molly",
+    "pixel_perfect" : false,
+    "time_to_land" : 3, 
+    "sova_charge_bar" : null, 
+    "sova_bounces" : null, 
+    "notes" : "JUMP & THROW AT PEAK",
+    "stand_here_setting" : "tuck_left",
+
+    "custom_lineup" : false
+}
