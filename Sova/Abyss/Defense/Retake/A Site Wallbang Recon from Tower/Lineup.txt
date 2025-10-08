@@ -1,0 +1,11 @@
+{
+    "ability" : "sova_recon",
+    "pixel_perfect" : false,
+    "time_to_land" : 1, 
+    "sova_charge_bar" : 3, 
+    "sova_bounces" : 0, 
+    "notes" : "",
+    "stand_here_setting" : "align_wall",
+
+    "custom_lineup" : false
+}
