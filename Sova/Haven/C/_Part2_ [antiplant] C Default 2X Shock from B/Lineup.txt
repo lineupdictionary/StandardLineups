@@ -1,0 +1,12 @@
+{
+    "ability" : "sova_shock",
+    "pixel_perfect" : false,
+    "time_to_land" : 2.5, 
+    "sova_charge_bar" : 0, 
+    "sova_bounces" : 0, 
+    "notes" : "look \\/",
+    "stand_here_setting" : "tuck_up",
+    "next_lineup" : null,
+
+    "custom_lineup" : false
+}
