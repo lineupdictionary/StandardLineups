@@ -1,11 +1,12 @@
 {
     "ability" : "brim_molly",
     "pixel_perfect" : false,
-    "time_to_land" : 7, 
+    "time_to_land" : 6, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
     "notes" : "",
     "stand_here_setting" : "tuck_up",
+    "next_lineup" : null,
 
     "custom_lineup" : false
 }
