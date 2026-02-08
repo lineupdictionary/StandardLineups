@@ -1,10 +1,10 @@
 {
     "ability" : "brim_molly",
     "pixel_perfect" : false,
-    "time_to_land" : 8, 
+    "time_to_land" : 7, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
-    "notes" : "",
+    "notes" : "stand on stone corner",
     "stand_here_setting" : "align_wall",
     "next_lineup" : null,
 

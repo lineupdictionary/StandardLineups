@@ -1,7 +1,7 @@
 {
     "ability" : "brim_molly",
     "pixel_perfect" : true,
-    "time_to_land" : 7, 
+    "time_to_land" : null, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
     "notes" : "JUMP & THROW AT PEAK",
