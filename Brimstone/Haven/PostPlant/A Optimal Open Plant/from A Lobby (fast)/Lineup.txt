@@ -1,0 +1,12 @@
+{
+    "ability" : "brim_molly",
+    "pixel_perfect" : false,
+    "time_to_land" : 4.5, 
+    "sova_charge_bar" : null, 
+    "sova_bounces" : null, 
+    "notes" : "CAN'T HEAR SPIKE TAP",
+    "stand_here_setting" : "tuck_left",
+    "next_lineup" : null,
+
+    "custom_lineup" : false
+}
