@@ -4,8 +4,9 @@
     "time_to_land" : 8, 
     "sova_charge_bar" : null, 
     "sova_bounces" : null, 
-    "notes" : "",
-    "stand_here_setting" : "tuck_down",
+    "notes" : "ULTRA PIXEL PERFECT",
+    "stand_here_setting" : "align_wall",
+    "next_lineup" : null,
 
     "custom_lineup" : false
 }
